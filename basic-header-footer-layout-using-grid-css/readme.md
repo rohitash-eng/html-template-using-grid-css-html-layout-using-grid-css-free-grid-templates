@@ -6,7 +6,7 @@
 
 ## this is project 2, means in this project i have created 4 different layouts as you can see in previous, you can check by downloading the project where you will learn grid container property and item property 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rohitash-eng/html-template-using-grid-css-html-layout-using-grid-css-free-grid-templates/refs/heads/main/grid-css-tutorials/images/grid-css-tutorials.png" alt="Portfolio Preview" width="700"/>
+  <img src="https://raw.githubusercontent.com/rohitash-eng/html-template-using-grid-css-html-layout-using-grid-css-free-grid-templates/refs/heads/add-readme-file/basic-header-footer-layout-using-grid-css/images/grid-template-layouts.png" alt="Portfolio Preview" width="700"/>
 </p>
 
 # 💼 What We Have Learned in Grid css Tutorial
