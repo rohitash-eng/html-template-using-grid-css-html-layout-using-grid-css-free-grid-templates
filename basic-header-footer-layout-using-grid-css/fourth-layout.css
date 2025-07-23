@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+    display: grid;
+    background: #ccc;
+    height: 100vh;
+    grid-template-rows: 1fr;
+    grid-template-columns: 1fr 5fr;
+    gap: 15px;
+    text-align: center;
+}
+.header {
+    background: gray;
+}
+.footer {
+    background: gray;
+}
+.middle-content{
+    background: gray;
+}
