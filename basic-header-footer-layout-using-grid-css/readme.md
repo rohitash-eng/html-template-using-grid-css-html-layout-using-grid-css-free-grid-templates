@@ -1,7 +1,5 @@
-## 🌐 Please review screenshot of this project below
-
 ## Project Name:- basic-header-footer-layout-using-grid-css
-## Explain:- this is second project, means in this project i have created 4 different layouts as you can see in screenshot, you can run these 4 files in this project
+## Explain:- this is second project, in this project i have created 4 different layouts as shown in screenshot, which will help to understand the GRID properties
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rohitash-eng/html-template-using-grid-css-html-layout-using-grid-css-free-grid-templates/refs/heads/add-readme-file/basic-header-footer-layout-using-grid-css/images/grid-template-layouts.png" alt="Portfolio Preview" width="700"/>

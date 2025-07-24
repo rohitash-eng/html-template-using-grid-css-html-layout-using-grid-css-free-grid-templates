@@ -1,17 +1,31 @@
-## 🌐 Please review screenshot of this project below
+## Project 1:- grid-css-tutorials
+## Explain :- from this project you can learn basics of GRID CSS like container and items properties 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rohitash-eng/html-template-using-grid-css-html-layout-using-grid-css-free-grid-templates/refs/heads/main/grid-css-tutorials/images/grid-css-tutorials.png" alt="Portfolio Preview" width="700"/>
 </p>
 
-## Explain:- I have 2 projects, i have created 4 different layouts as you can see in screenshot, where you will learn grid container property and item property 
-## Project 1:- grid-css-tutorials
 ## Project 2:- basic-header-footer-layout-using-grid-css
-
+## Explain:- I’ve created 4 different layout examples in this projects, as shown in the screenshots. These examples are designed to help you learn and understand both Grid Container and Grid Item properties in CSS Grid.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rohitash-eng/html-template-using-grid-css-html-layout-using-grid-css-free-grid-templates/refs/heads/add-readme-file/basic-header-footer-layout-using-grid-css/images/grid-template-layouts.png" alt="Portfolio Preview" width="700"/>
 </p>
+
+
+## 🚀 How to Clone and Run this project
+
+```bash
+# Clone the repository
+git clone https://github.com/rohitash-eng/html-template-using-grid-css-html-layout-using-grid-css-free-grid-templates.git
+
+# Navigate into the folder whichever you want to run
+cd css-grid-tutorial
+
+# Open the project
+Just open any .html file in your browser
+---
+```
 
 # 💼 What We Have Learned in Grid css Tutorial
 
@@ -59,20 +73,6 @@ If you'd like to contribute or make any changes, please ensure you create a pull
 | justify-self | Aligns the item horizontally inside its grid cell. |
 | align-self | Aligns the item vertically inside its grid cell. |
 | place-self | Shorthand for align-self and justify-self. |
-
-## 🚀 How to Clone and Run this project
-
-```bash
-# Clone the repository
-git clone https://github.com/rohitash-eng/html-template-using-grid-css-html-layout-using-grid-css-free-grid-templates.git
-
-# Navigate into the folder whichever you want to run
-cd css-grid-tutorial
-
-# Open the project
-Just open any .html file in your browser
----
-```
 
 ## 🧑‍💻 Author
 
