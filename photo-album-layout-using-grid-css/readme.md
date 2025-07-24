@@ -2,7 +2,11 @@
 ## Explain:- I created this layout using grid css and learn grid container and items properties
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rohitash-eng/html-template-using-grid-css-html-layout-using-grid-css-free-grid-templates/refs/heads/add-readme-file/basic-header-footer-layout-using-grid-css/images/grid-template-layouts.png" alt="Portfolio Preview" width="700"/>
+  <img src="https://raw.githubusercontent.com/rohitash-eng/html-template-using-grid-css-html-layout-using-grid-css-free-grid-templates/refs/heads/main/photo-album-layout-using-grid-css/images/Screenshot%202025-07-24%20233409.png" alt="Portfolio Preview" width="700"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rohitash-eng/html-template-using-grid-css-html-layout-using-grid-css-free-grid-templates/refs/heads/main/photo-album-layout-using-grid-css/images/Screenshot%202025-07-24%20233537.png" alt="Portfolio Preview" width="700"/>
 </p>
 
 ## To clone and run this project
