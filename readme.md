@@ -4,7 +4,11 @@
   <img src="https://raw.githubusercontent.com/rohitash-eng/html-template-using-grid-css-html-layout-using-grid-css-free-grid-templates/refs/heads/main/grid-css-tutorials/images/grid-css-tutorials.png" alt="Portfolio Preview" width="700"/>
 </p>
 
-## this is project 2, means in this project i have created 4 different layouts as you can see in previous, you can check by downloading the project where you will learn grid container property and item property 
+## Explain:- I have 2 projects, i have created 4 different layouts as you can see in screenshot, where you will learn grid container property and item property 
+## Project 1:- grid-css-tutorials
+## Project 2:- basic-header-footer-layout-using-grid-css
+
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/rohitash-eng/html-template-using-grid-css-html-layout-using-grid-css-free-grid-templates/refs/heads/add-readme-file/basic-header-footer-layout-using-grid-css/images/grid-template-layouts.png" alt="Portfolio Preview" width="700"/>
 </p>
@@ -62,11 +66,11 @@ If you'd like to contribute or make any changes, please ensure you create a pull
 # Clone the repository
 git clone https://github.com/rohitash-eng/html-template-using-grid-css-html-layout-using-grid-css-free-grid-templates.git
 
-# Navigate into the folder
+# Navigate into the folder whichever you want to run
 cd css-grid-tutorial
 
 # Open the project
-Just open index.html in your browser
+Just open any .html file in your browser
 ---
 ```
 
