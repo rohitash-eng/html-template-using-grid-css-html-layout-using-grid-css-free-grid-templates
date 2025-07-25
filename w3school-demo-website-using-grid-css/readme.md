@@ -2,7 +2,7 @@
 ## Explain:- This is small example of w3schools website using grid css, I tried, I have not done responsive for this website
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rohitash-eng/html-template-using-grid-css-html-layout-using-grid-css-free-grid-templates/refs/heads/main/grid-css-tutorials/images/grid-css-tutorials.png" alt="Portfolio Preview" width="700"/>
+  <img src="https://raw.githubusercontent.com/rohitash-eng/html-template-using-grid-css-html-layout-using-grid-css-free-grid-templates/refs/heads/w3school-layout/w3school-demo-website-using-grid-css/images/Screenshot%202025-07-25%20175826.png" alt="Portfolio Preview" width="700"/>
 </p>
 
 ## To clone and run this project

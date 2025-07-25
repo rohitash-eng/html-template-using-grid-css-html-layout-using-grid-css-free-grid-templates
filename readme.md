@@ -40,6 +40,12 @@
   <img src="https://raw.githubusercontent.com/rohitash-eng/html-template-using-grid-css-html-layout-using-grid-css-free-grid-templates/refs/heads/photo-labum-list-layout/photo-album-list-layout-using-grid-css/images/Screenshot%202025-07-25%20122623.png" width="700"/>
 </p>
 
+## Project 5:- w3schools.com demo website using grid css
+## Explain:- This is small example of w3schools website using grid css, I tried, I have not done responsive for this website
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rohitash-eng/html-template-using-grid-css-html-layout-using-grid-css-free-grid-templates/refs/heads/w3school-layout/w3school-demo-website-using-grid-css/images/Screenshot%202025-07-25%20175826.png" alt="Portfolio Preview" width="700"/>
+</p>
 
 ## 🚀 How to Clone and Run this project
 
